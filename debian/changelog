@@ -1,5 +1,48 @@
-template-repository (1.0-1) unstable; urgency=medium
+diminish-el (0.45-6) unstable; urgency=medium
 
-  * Initial release
+  * Team upload.
+  * Rebuild against dh-elpa 2.1.5.
+    Upload pushed to dgit-repos but not salsa.
+    See <https://lists.debian.org/debian-emacsen/2024/07/msg00077.html>.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Sean Whitton <spwhitton@spwhitton.name>  Thu, 25 Jul 2024 17:58:07 +0900
+
+diminish-el (0.45-5) unstable; urgency=medium
+
+  * Team upload.
+  * Rebuild against dh-elpa 2.1.3.
+    Upload pushed to dgit-repos but not salsa.
+    See <https://lists.debian.org/debian-emacsen/2024/07/msg00077.html>.
+
+ -- Sean Whitton <spwhitton@spwhitton.name>  Wed, 24 Jul 2024 21:49:35 +0900
+
+diminish-el (0.45-4) unstable; urgency=medium
+
+  [ David Krauser ]
+  * Update maintainer email address
+
+  [ Sean Whitton ]
+  * Rebuild with current dh-elpa.
+
+ -- Sean Whitton <spwhitton@spwhitton.name>  Sun, 08 Nov 2020 18:35:20 -0700
+
+diminish-el (0.45-3) unstable; urgency=medium
+
+  * Team upload.
+  * Rebuild with current dh-elpa
+
+ -- David Bremner <bremner@debian.org>  Sat, 24 Aug 2019 19:51:58 -0300
+
+diminish-el (0.45-2) unstable; urgency=medium
+
+  * Team upload.
+  * Rebuild with dh-elpa 1.13 to fix byte-compilation with unversioned
+    emacs
+
+ -- David Bremner <bremner@debian.org>  Fri, 01 Jun 2018 20:43:24 -0300
+
+diminish-el (0.45-1) unstable; urgency=low
+
+  * Initial release (Closes: #841838)
+
+ -- Lev Lamberov <dogsleg@debian.org>  Sun, 23 Oct 2016 22:31:48 +0500
